@@ -20,6 +20,8 @@ This project loads configuration from: [https://github.com/vanduc1102/spring-boo
 
 [http://localhost:8888/ecatalog-composite-local.yml](http://localhost:8888/ecatalog-composite-local.yml)
 
+[http://localhost:8888/ecatalog-composite-production.yml](http://localhost:8888/ecatalog-composite-production.yml)
+
 [http://localhost:8888/spring-cloud-config-client-local.properties](http://localhost:8888/spring-cloud-config-client-local.properties)
 
 ## Reading detail configuration
