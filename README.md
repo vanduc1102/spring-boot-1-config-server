@@ -1,5 +1,7 @@
 # spring-boot-1-config-server
-Configuration server
+Configuration Server
+
+This project loads configuration from: [https://github.com/vanduc1102/spring-boot-1-config-repos](https://github.com/vanduc1102/spring-boot-1-config-repos)
 
 # Running development
 
